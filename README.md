@@ -1,16 +1,7 @@
 # hotel_booking
 
-A new Flutter project.
+Hotel Booking App UI Design with Flutter and Figma
 
-## Getting Started
+You can observe to predesign process in Figma
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![jasdhkjasdh](https://user-images.githubusercontent.com/105917287/184628597-e76275f4-9e59-420e-876b-e8b9538b1a09.PNG)
